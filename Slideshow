@@ -1,0 +1,17 @@
+<|doctype html>
+<html>
+<head>
+<title>Slideshow</title>
+<meta charset"UTF-8">
+<link rel="stylesheet" href="../css/slideshow.css">
+</head>
+<body>
+<h1>Slideshow fra Venezia</h1>
+<div class"slideshow-container">
+<div class="mineSlides fade">
+<div class="nummerTekst">1 / 4</div>
+<img src"../media/Venezia1.JPG" alt="Bilde fra Venezia1" style="width:100%;"> 
+
+
+</body>
+>/html>

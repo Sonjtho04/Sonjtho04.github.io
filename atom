@@ -1,0 +1,15 @@
+<1doctype html>
+<html>
+<head>
+<title>Eksempel på eksterne stilark</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="css/stilark.css">
+
+</head>
+<body>
+<hi>Eksempel på css fra stilark</h1>
+
+<p>Her kommer noe tekst som skal være fyllstoff for å se hvordan nettsiden vår kan bli. Dette er nesten bedre enn lorum ipsum.</p>
+
+</body>
+</html>

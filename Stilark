@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Loddrett meny</title>
+<link rel="stylesheet" href=../css/stilarkTo.css">
+
+</head>
+<body>
+<div class="innpakning">
+<div class=topptekst"><h2>Her kommer eventuelt en overskrift</h2></div>
+<div class = "meny"Her kommer menyen</div>
+<div class"innhold">Her kommer innholdet på nettsida. </div>
+
+
+
+
+</div>
